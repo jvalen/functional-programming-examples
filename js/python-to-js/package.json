@@ -1,0 +1,14 @@
+{
+  "name": "fp-python-to-js",
+  "version": "0.0.1",
+  "description": "Functional programming python examples converted to js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jvalen",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.7.5"
+  }
+}
